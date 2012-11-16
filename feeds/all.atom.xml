@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>What Letters</title><link href="what.github.com/" rel="alternate"></link><link href="what.github.com/feeds/all.atom.xml" rel="self"></link><id>what.github.com/</id><updated>2012-11-15T00:00:00-06:00</updated><entry><title>Hello World</title><link href="what.github.com/hello-world.html" rel="alternate"></link><updated>2012-11-15T00:00:00-06:00</updated><author><name>_what</name></author><id>tag:what.github.com,2012-11-15:hello-world.html</id><summary type="html">&lt;p&gt;An experiment in blogging, coding, and living. &lt;/p&gt;
+&lt;p&gt;I've never been one for going the extra mile, learning in my free time, or following through with a hobby for very long. Soon I'm hoping for this to change though. After some remodeling in my office over the next month, I plan on utilizing my space more and more to learn and hopefully excel. &lt;/p&gt;
+&lt;p&gt;Planned projects atm are along the lines of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;NTBD - a rewrite of www.750words.com.  I really like the idea, but I'd like to have my own version of it running, and not hosted on someone else's server.&lt;/li&gt;
+&lt;li&gt;Budget Software - something to help me manage/predict/budget my finances. I remember seeing a version of this awhile back that was written in Rails. I'm not too keen on running a webserver all the time just for my budgets. A simple command line app will do just fine.&lt;/li&gt;
+&lt;li&gt;A friend and I are throwing around ideas for a website for managing recipes and current inventory of what you have available at your house to make said recipe.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All in all, who knows where this will go, I just hope it's worth it.&lt;/p&gt;</summary></entry></feed>
